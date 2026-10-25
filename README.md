@@ -1,2 +1,2 @@
-# meu-jogo-plataforma.
-Meu primeiro jogo de plataforma.
+# Minha Loja Virtual.
+Minha Primeira Loja.
